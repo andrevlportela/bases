@@ -1,9 +1,5 @@
 <br>
 
-<div align="center" style="border: 2px solid #000000; padding: 20px; background-color: #fff5f5;">
-  <img src="images/academy.png" alt="Indicium Academy Logo" width="200"/>
-</div>
-
 <div align="center" style="border: 3px solid #ff4d4d; padding: 5px; background-color: #fff5f5;">
 <br>
   <h1 style="color: #ff4d4d">⚠️ ATENÇÃO: ESTE É UM REPOSITÓRIO PÚBLICO ⚠️</h1>
